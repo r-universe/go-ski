@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "clustra"]
 	path = clustra
-	url = https://github.com/cran/clustra
+	url = https://github.com/go-ski/clustra
